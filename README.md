@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaimersonmoura
-- 👀 I’m interested 
-- 🌱 I’m currently learning  java e aws
+- 
 
 <!---
 jaimersonmoura/jaimersonmoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
