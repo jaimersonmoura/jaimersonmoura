@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaimersonmoura
-- 👀 I’m interested in aprender
+- 👀 I’m interested 
 - 🌱 I’m currently learning  java e aws
 
 <!---
